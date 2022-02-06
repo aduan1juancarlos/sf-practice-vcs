@@ -1,5 +1,3 @@
-simple text.
-
 //modified the file for testing purposes
 // update
 // another update
